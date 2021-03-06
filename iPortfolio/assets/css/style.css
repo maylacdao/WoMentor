@@ -145,7 +145,7 @@ button {
   border-radius: 8px;
   border-color: white;
   padding: 15px;
-  background-color: blue;
+  background-color: blueviolet;
   color: white;
   font-size: 20px;
 }
@@ -339,37 +339,37 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
-.about .content h3 {
+/* .discover .for-you h2 {
   font-weight: 700;
   font-size: 26px;
   color: #173b6c;
 }
 
-.about .content ul {
+.discover .content ul {
   list-style: none;
   padding: 0;
 }
 
-.about .content ul li {
+.discover .content ul li {
   margin-bottom: 20px;
   display: flex;
   align-items: center;
 }
 
-.about .content ul strong {
+.discover .content ul strong {
   margin-right: 10px;
 }
 
-.about .content ul i {
+.discover .content ul i {
   font-size: 16px;
   margin-right: 5px;
   color: #149ddd;
   line-height: 0;
 }
 
-.about .content p:last-child {
+.discover .content p:last-child {
   margin-bottom: 0;
-}
+} */
 
 /*--------------------------------------------------------------
 # Facts
