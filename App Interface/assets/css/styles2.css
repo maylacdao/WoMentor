@@ -101,3 +101,21 @@ footer {
   padding: 10px;
   font-size: 18px;
 }
+
+.resend {
+  text-align: center;
+}
+
+.resend-button {
+  border-radius: 5px;
+  background-color: blueviolet;
+  color: white;
+}
+
+h5 {
+  text-align: center;
+}
+
+.check-email {
+  font-size: 15px;
+}
