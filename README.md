@@ -1,4 +1,6 @@
-# IWD-web-app
+# PROJECT WoMentor
+
+## ABOUT
 
 ## LANDING PAGE
 
